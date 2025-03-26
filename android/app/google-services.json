@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322515433939",
+    "project_id": "digital-school-d871f",
+    "storage_bucket": "digital-school-d871f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322515433939:android:554d22e46c7b05dbb85726",
+        "android_client_info": {
+          "package_name": "com.digitalschool.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0Uf4VNY_PxC36DUJQSQmphXcviOklkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322515433939:android:4338a2f6a01c5363b85726",
+        "android_client_info": {
+          "package_name": "com.digitalschool.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0Uf4VNY_PxC36DUJQSQmphXcviOklkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
